@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello! I'm Max Shabs
 
-<!--
-**maxshabs/maxshabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **23-year-old** Computer Science student at **Bar-Ilan University** 📚, passionate about tech and interested in software engineering. I'm currently seeking a **student role** in software engineering that will allow me to apply and further develop my skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 A Little About Me
+- 🎓 **Computer Science student** at Bar-Ilan University
+- 💻 **Tech enthusiast** who loves keeping up-to-date with the latest trends and advancements
+- 📚 Currently learning **Python** and **AWS** to expand my toolbox
+- 🤓 Excited about **learning new technologies** and constantly improving my skills
+
+---
+
+## 💼 Technologies I Work With
+Here's a list of the languages and tools I've worked with:
+
+- **Programming Languages:** 
+  - JavaScript
+  - C
+  - Java
+  - Python (currently learning)
+  - Assembly (familiar)
+  - C++ (familiar)
+
+- **Tools & Technologies:**
+  - React
+  - MongoDB
+  - MySQL
+  - Docker
+  - Git & GitHub
+
+---

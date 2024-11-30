@@ -7,7 +7,7 @@ I'm a **23-year-old** Computer Science student at **Bar-Ilan University** 📚, 
 ## 🌱 A Little About Me
 - 🎓 **3rd year Computer Science student** at Bar-Ilan University
 - 💻 **Tech enthusiast** who loves keeping up-to-date with the latest trends and advancements
-- 📚 Currently learning **Python** and **AWS** to expand my toolbox
+- 📚 Currently learning **AWS** to expand my toolbox
 - 🤓 Excited about **learning new technologies** and constantly improving my skills
 
 ---
@@ -15,17 +15,18 @@ I'm a **23-year-old** Computer Science student at **Bar-Ilan University** 📚, 
 ## 💼 Technologies I Work With
 Here's a list of the languages and tools I've worked with:
 
-- **Programming Languages:** 
+- **Programming Languages:**
+  - Python
   - JavaScript
   - C
   - Java
-  - Python (currently learning)
   - Assembly (familiar)
   - C++ (familiar)
 
 - **Tools & Technologies:**
   - React
   - MongoDB
+  - SQL
   - Git & GitHub
 
 ---
